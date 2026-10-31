@@ -1,0 +1,20 @@
+[{
+    "userId": 12345,
+    "username": "Akash",
+    "email": "akash@gmail.com",
+    "firstName": "Akash",
+    "lastName": "E",
+    "age": 28,
+    "isActive": true,
+    "role": "user"
+},
+{
+    "userId": 23456,
+    "username": "Babu",
+    "email": "babu@gmail.com",
+    "firstName": "Babu",
+    "lastName": "H",
+    "age": 32,
+    "isActive": true,
+    "role": "user"
+}]
